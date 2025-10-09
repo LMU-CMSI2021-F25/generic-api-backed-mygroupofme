@@ -1,0 +1,3 @@
+This app provides data about the user's choice of 4 different planets from Star Wars that I chose based on their prevalence in the franchise and their visual uniqueness. The data comes from https://swapi.dev/ and has a lot more information about each planet, but I stuck to what you would get in a tourist brochure, so it doesn't look crowded. The user requests information about each planet by clicking on an invisible button on the image of each planet. 
+
+This functionality could be used as an interactive way to learn or as a quiz to see if the user can guess facts about a planet before clicking to reveal.
