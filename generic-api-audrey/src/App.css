@@ -5,9 +5,17 @@
   text-align: center;
 }
 
+.title {
+  height: 300px;
+  padding: 10px;
+  padding-bottom: 0px;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
 .logo {
-  height: 6em;
-  padding: 1.5em;
+  height: 300px;
+  padding: 10px;
   will-change: filter;
   transition: filter 300ms;
 }
